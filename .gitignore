@@ -1,0 +1,13 @@
+# Ignore compiled C executables
+*.out
+*.exe
+*.o
+*.obj
+
+# Ignore build artifacts
+*.a
+*.so
+*.dll
+
+# Ignore VS Code settings
+.vscode/

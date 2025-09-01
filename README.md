@@ -52,8 +52,8 @@ Number of tests in tests/program: 3
 ./program < tests/program/test2.in > tests/program/test2-STUDENT.out
 Line 2:
 Expected Output:42(END)
-	Actual Output:41(END)
-							 ^
+  Actual Output:41(END)
+				 ^
  -Test2: FAIL
 
 PASSED 2/3 TESTS
